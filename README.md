@@ -1,4 +1,4 @@
-# QwenCore-Download
-Innen tudod letölteni a QwenCore Projectet.
+# Klorix-Download
+Innen tudod letölteni Klorixot.
 
-Ha még nem elérhető itt egy link, az azt jelenti, hogy a projekt még fejlesztés alatt van
+Ha a link nem elérhető, akkor valami hiba lehet : 
